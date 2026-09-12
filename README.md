@@ -15,10 +15,13 @@ A collaborative full-stack airline reservation prototype built with React, Expre
 2. Copy `.env.example` to `.env` and provide a restricted local database account.
 3. Install dependencies with `npm install`.
 4. Run `npm start` to start the API on port 5001.
+5. In another terminal, run `npm run dev` for the Vite frontend.
 
 ```sh
 npm run check
 ```
+
+The check command validates the backend JavaScript and performs a production frontend build.
 
 ## Security and data notes
 
