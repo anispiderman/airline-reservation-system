@@ -29,4 +29,4 @@ Secrets are read from environment variables and are never committed. Published S
 
 ## Collaboration
 
-This project was developed collaboratively and is published with the group's permission. The portfolio edition preserves the application surface while removing credentials, personal data, generated files, and course/grading material. Its new history records portfolio packaging, not the original development timeline.
+This was a collaborative student project. Our group designed and implemented the reservation flow, user interface, API, and relational database together.
